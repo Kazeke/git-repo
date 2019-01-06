@@ -1,1 +1,2 @@
-Print "Goodby";
+Print "Goodbye world";
+Print "Goodbye";
